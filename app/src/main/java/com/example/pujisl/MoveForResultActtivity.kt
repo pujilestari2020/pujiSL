@@ -15,6 +15,7 @@ class MoveForResultActivity : AppCompatActivity(), View.OnClickListener {
         const val EXTRA_SELECTED_VALUE = "extra_selected_value"
         const val RESULT_CODE = 110
 
+
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
